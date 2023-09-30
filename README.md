@@ -1,1 +1,1 @@
-# Background-Remover
+CodeClauseInternship_BackgroundRemover
